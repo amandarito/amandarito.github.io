@@ -1,0 +1,11 @@
+.bgdark {
+    background-color: #23232b;
+}
+
+.bglight {
+    background-color: rgb(242, 246, 248);
+}
+
+.sidebar {
+    padding: 8%;
+}
