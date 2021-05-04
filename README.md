@@ -1,2 +1,3 @@
 # amandarito.github.io
-website
+my personal website / portfolio, visit @:
+amand.at
