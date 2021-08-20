@@ -23,3 +23,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 });
+
+hljs.initHighlightingOnLoad();
+/* git add -A  ;   git commit -m "message"   ;  git push -u origin main  */

@@ -9,3 +9,30 @@
 .sidebar {
     padding: 8%;
 }
+
+.is-f1 {
+    background-image: url("assets/flowers1.jpg");
+    background-size: 120%;
+    background-position:left;
+}
+
+.is-f2 {
+    background-image: url("assets/flowers2.jpg");
+    background-size: 120%;
+    background-position:left;
+}
+
+.is-f3 {
+    background-image: url("assets/flowers3.jpg");
+    background-size: 120%;
+    background-position:left;
+}
+
+pre {
+    border-radius: 10px;
+    background-color: white;
+}
+
+code {
+    border-radius: 5px;
+}
