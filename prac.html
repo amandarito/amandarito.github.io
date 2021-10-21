@@ -63,29 +63,14 @@
             practice
           </p>
           <p class="subtitle">
-            some leetcode-style questions,<br>
-            with c++ solutions !
+            coding practice,<br>
+            coming soon :)
           </p>
           </div>
         </div>
     </section>
     <div class="container">
         <section class="section">
-            <p class="subtitle is-4 is-size-5-mobile">simple stock market maximize profit</p>
-            <p >given an array `prices`, where the ith element is the price of the stock on day i. find the maximum profit if you can do at most one transaction, and you have to buy before selling (you can also make zero transactions). also, a price will never go above the int limit..</p>
-            <pre><code lang="cpp">int maxprofit(vector&ltint&gt& prices) {
-    // set to biggest int value, a pretend infinity
-    int minprice = numeric_limits&ltint&gt::max();
-    int maxdiff = 0;
-
-    for (auto price : prices) {
-        minprice = min(minprice, price);
-        maxdiff = max(maxdiff, price-minprice);
-    }
-
-    return maxdiff;
-}</code></pre>
-            <p></p>
         </section>
     </div>
   </body>
